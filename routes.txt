@@ -1,0 +1,6 @@
+route_id,route_short_name,route_long_name
+"21-U1-j26-2","U1","Oberlaa - Leopoldau"
+"21-U2-j26-3","U2","Seestadt - Karlsplatz"
+"21-U3-j26-1","U3","Ottakring - Simmering"
+"21-U4-j26-1","U4","Hütteldorf - Heiligenstadt"
+"21-U6-j26-3","U6","Siebenhirten - Floridsdorf"
